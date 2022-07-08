@@ -19,7 +19,8 @@
 ## 🌱 I’m currently learning ...
 1. Typer
 2. Golang
-3. Rust (soon)
+3. Data Analysis
+4. Rust (soon)
 
 ## 👯 I’m looking to collaborate on ...
 1. any kind of open source projects.
