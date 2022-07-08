@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## Languages
+- Python
+- Javascript / Typescript
+- PHP
+
+## Previous Work Experience
+- Web Developer, [The Knowledge Trust](https://knowledgetrust.org)
+- Co-founder / SWE, Vitalio
+- Web Developer, [StaffDeals](https:/staffdeals.co.za)
+
+
 - 🔭 I’m currently working on ...
 1. a video chat demo application using FastAPI, NextJS & Twilio.
 2. writing product articles on two startups in South Africa.
@@ -7,6 +18,8 @@
 
 - 🌱 I’m currently learning ...
 1. Typer
+2. Golang
+3. Rust (soon)
 
 - 👯 I’m looking to collaborate on ...
 1. any kind of open source projects.
