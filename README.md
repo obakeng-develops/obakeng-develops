@@ -7,7 +7,7 @@
 
 ## Previous Work Experience
 - Web Developer, [The Knowledge Trust](https://knowledgetrust.org)
-- Co-founder / SWE, Vitalio
+- Software Engineer, Vitalio
 - Web Developer, [StaffDeals](https:/staffdeals.co.za)
 
 
