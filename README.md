@@ -25,6 +25,7 @@
 ## 👯 I’m looking to collaborate on ...
 1. any kind of open source projects.
 2. any technical writing.
+3. devops stuff.
 
 ## 💬 Ask me about ...
 1. my experience.
