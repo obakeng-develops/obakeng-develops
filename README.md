@@ -1,5 +1,7 @@
 # Hi there 👋
 
+My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](https://zappi.io/web)
+
 ## Languages
 - Python
 - Javascript / Typescript
