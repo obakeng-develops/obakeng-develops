@@ -4,8 +4,7 @@ My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](http
 
 ## Languages
 - Python
-- Javascript / Typescript
-- PHP
+- Golang
 
 ## Previous Work Experience
 - Web Developer, [The Knowledge Trust](https://knowledgetrust.org)
