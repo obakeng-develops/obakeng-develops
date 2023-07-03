@@ -13,9 +13,7 @@ My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](http
 
 
 ## 🔭 I’m currently working on ...
-1. a video chat demo application using FastAPI, NextJS & Twilio.
-2. writing product articles on two startups in South Africa.
-3. a "how's the weather?" cli app using Typer.
+1. Learning all about containers.
 
 ## 🌱 I’m currently learning ...
 1. Typer
@@ -30,13 +28,9 @@ My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](http
 
 ## 💬 Ask me about ...
 1. my experience.
-2. my life.
-3. what i'm interested.
+2. what i'm interested.
 
 ## 📫 How to reach me: 
 1. email: mosadiobakeng7@gmail.com / hello@lorato.co
 2. linkedIn: [Obakeng](https://www.linkedin.com/in/obakeng-mosadi-b2041943/)
 3. twitter: [Twitter](https://twitter.com/obakeng_mosadi)
-
-## ⚡ Fun fact:
-1. i can speak some french, russian and swahili
