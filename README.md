@@ -11,15 +11,10 @@ My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](http
 - Software Engineer, Vitalio
 - Web Developer, [StaffDeals](https:/staffdeals.co.za)
 
-
-## 🔭 I’m currently working on ...
-1. Learning all about containers.
-
 ## 🌱 I’m currently learning ...
-1. Typer
-2. Golang
-3. Data Analysis
-4. Rust (soon)
+1. Containers
+2. AWS
+3. Linux
 
 ## 👯 I’m looking to collaborate on ...
 1. any kind of open source projects.
