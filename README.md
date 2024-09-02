@@ -7,14 +7,10 @@ My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](http
 - Golang
 
 ## Previous Work Experience
-- Web Developer, [The Knowledge Trust](https://knowledgetrust.org)
-- Software Engineer, Vitalio
-- Web Developer, [StaffDeals](https:/staffdeals.co.za)
+here's my cv - https://read.cv/obakeng
 
-## 🌱 I’m currently learning ...
-1. Containers
-2. AWS
-3. Linux
+## 🌱 I’m currently ...
+Building little projects based on [Coding Challenges](https://codingchallenges.fyi/challenges/intro).
 
 ## 👯 I’m looking to collaborate on ...
 1. any kind of open source projects.
