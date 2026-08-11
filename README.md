@@ -23,6 +23,6 @@ Working on developer tooling, experience and observability at Zappi.
 2. what i'm interested.
 
 ## 📫 How to reach me: 
-1. email: mosadiobakeng7@gmail.com / hello@lorato.co
+1. email: mosadiobakeng7@gmail.com
 2. linkedIn: [Obakeng](https://www.linkedin.com/in/obakeng-mosadi-b2041943/)
 3. twitter: [Twitter](https://twitter.com/obakeng_mosadi)
