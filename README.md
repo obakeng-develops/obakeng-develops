@@ -1,21 +1,22 @@
 # Hi there 👋
 
-My name is Obakeng and I'm currently a Site Reliability Engineer at [Zappi](https://zappi.io/web)
+My name is Obakeng and I'm currently a Platform Engineer at [Zappi](https://zappi.io/web)
 
 ## Languages
 - Python
+- Ruby
 - Golang
 
 ## Previous Work Experience
-here's my cv - https://read.cv/obakeng
+here's my cv - https://path.cv/obakeng
 
 ## 🌱 I’m currently ...
-Building little projects based on [Coding Challenges](https://codingchallenges.fyi/challenges/intro).
+Working on developer tooling, experience and observability at Zappi.
 
 ## 👯 I’m looking to collaborate on ...
 1. any kind of open source projects.
 2. any technical writing.
-3. devops stuff.
+3. platform engineering stuff.
 
 ## 💬 Ask me about ...
 1. my experience.
