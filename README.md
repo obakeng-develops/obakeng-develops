@@ -1,28 +1,23 @@
-# Hi there 👋
+# Hi, I'm Obakeng
 
-My name is Obakeng and I'm currently a Platform Engineer at [Zappi](https://zappi.io/web)
+I'm a Platform Engineer at [Zappi](https://www.zappi.io/web). I'm interested in platform, data and inference engineering.
+
+## What I'm building
+
+- [Campsend](https://campsend.app): send finished work to clients on an expiring download page with your name, logo and colour, and see when they open it.
+- [MapMyCity](https://mapmycity.app): audited National Treasury figures for South African municipalities, with comparisons across municipalities served by ClickHouse. I wrote about building it in [Visualizing Local Municipalities Spend with ClickHouse](https://obakeng.substack.com/p/visualizing-local-municipalities).
 
 ## Languages
-- Python
-- Ruby
-- Golang
 
-## Previous Work Experience
-here's my cv - https://path.cv/obakeng
+Go, Ruby & Python.
 
-## 🌱 I’m currently ...
-Working on developer tooling, experience and observability at Zappi.
+## Writing
 
-## 👯 I’m looking to collaborate on ...
-1. any kind of open source projects.
-2. any technical writing.
-3. platform engineering stuff.
+I write about platform engineering, reliability and the things I build at [obakeng.substack.com](https://obakeng.substack.com).
 
-## 💬 Ask me about ...
-1. my experience.
-2. what i'm interested.
+## Contact
 
-## 📫 How to reach me: 
-1. email: mosadiobakeng7@gmail.com
-2. linkedIn: [Obakeng](https://www.linkedin.com/in/obakeng-mosadi-b2041943/)
-3. twitter: [Twitter](https://twitter.com/obakeng_mosadi)
+- Email: mosadiobakeng7@gmail.com
+- LinkedIn: [Obakeng Mosadi](https://www.linkedin.com/in/obakeng-mosadi-b2041943/)
+- Twitter: [@obakeng_mosadi](https://twitter.com/obakeng_mosadi)
+- CV: [path.cv/obakeng](https://path.cv/obakeng)
