@@ -5,7 +5,7 @@ I'm a Platform Engineer at [Zappi](https://www.zappi.io/web). I'm interested in 
 ## What I'm building
 
 - [Campsend](https://campsend.app): send finished work to clients on an expiring download page with your name, logo and colour, and see when they open it.
-- [MapMyCity](https://mapmycity.app): audited National Treasury figures for South African municipalities, with comparisons across municipalities served by ClickHouse. I wrote about building it in [Visualizing Local Municipalities Spend with ClickHouse](https://obakeng.substack.com/p/visualizing-local-municipalities).
+- [MapMyCity](https://mapmycity.app): audited finances of South African municipalities, built on National Treasury's Municipal Money data: 85+ million facts across 292 municipalities. I wrote about building it in [Visualizing Local Municipalities Spend with ClickHouse](https://obakeng.substack.com/p/visualizing-local-municipalities).
 
 ## Languages
 
