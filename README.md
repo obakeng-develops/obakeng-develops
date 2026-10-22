@@ -1,6 +1,6 @@
 # Hi, I'm Obakeng
 
-I'm a pllatform engineer at [Zappi](https://www.zappi.io/web). I'm interested in platform, data and inference engineering.
+I'm a platform engineer at [Zappi](https://www.zappi.io/web). I'm interested in platform, data and inference engineering.
 
 ## What I'm building
 
