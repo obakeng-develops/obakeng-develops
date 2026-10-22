@@ -19,5 +19,4 @@ I write about platform engineering, reliability and the things I build at [obake
 
 - Email: mosadiobakeng7@gmail.com
 - LinkedIn: [Obakeng Mosadi](https://www.linkedin.com/in/obakeng-mosadi-b2041943/)
-- Twitter: [@obakeng_mosadi](https://twitter.com/obakeng_mosadi)
-- CV: [path.cv/obakeng](https://path.cv/obakeng)
+- Substack: [path.cv/obakeng](https://obakeng.substack.com)
